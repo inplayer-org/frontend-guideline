@@ -24,7 +24,6 @@
   
 - **Styled Components**  
   https://styled-components.com/
-  A kickstarter guide to writing ES6.
   
 - **Axios**  
   https://github.com/axios/axios
