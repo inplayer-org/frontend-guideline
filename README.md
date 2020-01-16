@@ -16,7 +16,11 @@
   
 - **InPlayer JS SDK**  
   https://github.com/inplayer-org/inplayer.js
+  
+## Languages
 
+- **TypeScript**  
+  https://www.typescriptlang.org/
 
 ## Libraries
 
