@@ -2,15 +2,21 @@
 
 ## Projects
 
-### Admin Panel https://demo.inplayer.com:9443/
+- **Admin Panel **  
+  https://demo.inplayer.com:9443/
 
-### Merchant Panel https://demo.inplayer.com:8443/dashboard
+- **Merchant Panel*  
+  https://demo.inplayer.com:8443/dashboard
 
-### Paywall https://event.inplayer.com/staging/?asset=49074
+- **Paywall**  
+  https://event.inplayer.com/staging/?asset=49074
+  
+- **InPlayer-UI**  
+  https://github.com/inplayer-org/inplayer-ui
+  
+- **InPlayer JS SDK**  
+  https://github.com/inplayer-org/inplayer.js
 
-### InPlayer-UI https://github.com/inplayer-org/inplayer-ui
-
-### InPlayer JS SDK https://github.com/inplayer-org/inplayer.js
 
 ## Libraries
 
