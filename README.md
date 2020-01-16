@@ -2,42 +2,30 @@
 
 ## Projects
 
-- **Admin Panel**  
-  https://demo.inplayer.com:9443/
+- **Admin Panel** https://demo.inplayer.com:9443/
 
-- **Merchant Panel**
-  https://demo.inplayer.com:8443/dashboard
+- **Merchant Panel** https://demo.inplayer.com:8443/dashboard
 
-- **Paywall**  
-  https://event.inplayer.com/staging/?asset=49074
+- **Paywall** https://event.inplayer.com/staging/?asset=49074
   
-- **InPlayer-UI**  
-  https://github.com/inplayer-org/inplayer-ui
+- **InPlayer-UI** https://github.com/inplayer-org/inplayer-ui
   
-- **InPlayer JS SDK**  
-  https://github.com/inplayer-org/inplayer.js
+- **InPlayer JS SDK** https://github.com/inplayer-org/inplayer.js
   
 ## Languages
 
-- **TypeScript**  
-  https://www.typescriptlang.org/
+- **TypeScript** https://www.typescriptlang.org/
 
 ## Libraries
 
-- **React**  
-  https://reactjs.org/ 
+- **React** https://reactjs.org/ 
 
-- **Redux**
-  https://redux.js.org/
+- **Redux** https://redux.js.org/
 
-- **Redux Thunk**  
-  https://github.com/reduxjs/redux-thunk
+- **Redux Thunk** https://github.com/reduxjs/redux-thunk
   
-- **Formik**  
-  https://jaredpalmer.com/formik
+- **Formik** https://jaredpalmer.com/formik
   
-- **Styled Components**  
-  https://styled-components.com/
+- **Styled Components** https://styled-components.com/
   
-- **Axios**  
-  https://github.com/axios/axios
+- **Axios** https://github.com/axios/axios
