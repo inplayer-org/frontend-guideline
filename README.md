@@ -27,7 +27,13 @@
 - **React Router** https://reacttraining.com/react-router/web/guides/quick-start
   
 - **Formik** https://jaredpalmer.com/formik
+
+- **Yup** https://github.com/jquense/yup
   
 - **Styled Components** https://styled-components.com/
   
 - **Axios** https://github.com/axios/axios
+
+- **Jest** https://jestjs.io/
+
+- **Enzyme** https://airbnb.io/enzyme/
