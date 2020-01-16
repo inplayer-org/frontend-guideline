@@ -1,6 +1,6 @@
 # InPlayer Frontend Guideline and Resources for new employees
 
-## Projects
+## Core Projects
 
 - **Admin Panel** https://demo.inplayer.com:9443/
 
@@ -23,6 +23,8 @@
 - **Redux** https://redux.js.org/
 
 - **Redux Thunk** https://github.com/reduxjs/redux-thunk
+
+- **React Router** https://reacttraining.com/react-router/web/guides/quick-start
   
 - **Formik** https://jaredpalmer.com/formik
   
