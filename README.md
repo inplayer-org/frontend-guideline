@@ -8,6 +8,10 @@
 
 ### Paywall https://event.inplayer.com/staging/?asset=49074
 
+### InPlayer-UI https://github.com/inplayer-org/inplayer-ui
+
+### InPlayer JS SDK https://github.com/inplayer-org/inplayer.js
+
 ## Libraries
 
 - **React**  
