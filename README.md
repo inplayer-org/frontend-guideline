@@ -2,10 +2,10 @@
 
 ## Projects
 
-- **Admin Panel **  
+- **Admin Panel**  
   https://demo.inplayer.com:9443/
 
-- **Merchant Panel*  
+- **Merchant Panel**
   https://demo.inplayer.com:8443/dashboard
 
 - **Paywall**  
@@ -23,7 +23,7 @@
 - **React**  
   https://reactjs.org/ 
 
-- **Redux*  
+- **Redux**
   https://redux.js.org/
 
 - **Redux Thunk**  
