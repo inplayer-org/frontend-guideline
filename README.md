@@ -1,4 +1,4 @@
-# InPlayer Frontend Guideline and Resources for new employees
+# InPlayer Frontend Guideline and Resources
 
 ## Core Projects
 
