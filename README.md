@@ -1,3 +1,5 @@
+**THIS REPOSITORY IS MOVED TO GITLAB**
+
 # InPlayer Frontend Guideline and Resources
 
 ## Core Projects
